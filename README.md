@@ -80,7 +80,10 @@ Indica qual é o lado inverso ou não dominante da relação.
     <li><a href="https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/common-application-properties.html">Common application properties</a></li>
     <li><a href="https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.repositories">Spring Data JPA - Reference Documentation</a></li>
     <li><a href="https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-gettingstarted">Validation Reference Implementation: Reference Guide</a></li>
+    <li><a href="https://www.youtube.com/watch?v=JmWx5UZhFic&ab_channel=DIO">Explorando o Spring Security Para Prover uma API REST Segura </a></li>
+    <li><a href="https://www.youtube.com/watch?v=j6OLHQ-6I1w&ab_channel=DIO">Mentoria #6: Consumindo uma API Rest Com Spring. Exemplos práticos</a></li>
 
+    
 </ul>
 
 
